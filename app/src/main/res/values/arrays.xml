@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array   name="drawer_item" translatable="false">
+        <item>All</item>
+        <item>Started</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string-array name="drawer_icon" translatable="false">
+        <item>all</item>
+        <item>started</item>
+        <item>settings</item>
+    </string-array>
+
+</resources>

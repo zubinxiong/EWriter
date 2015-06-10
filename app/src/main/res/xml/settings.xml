@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/app_settings">
+
+        <SwitchPreference
+            android:key="first_screen"
+            android:title="@string/first_screen"
+            android:shadowColor="@color/colorAccent"
+            android:summary="@string/first_screen_summary"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/about">
+
+        <Preference
+            android:key="sina_weibo"
+            android:title="@string/item_weibo"
+            android:summary="@string/item_weibo_author" />
+
+        <Preference
+            android:key="rate_me"
+            android:title="@string/rate_me"
+            android:summary="@string/rate_summary" />
+
+        <Preference
+            android:key="about"
+            android:title="@string/about"/>
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

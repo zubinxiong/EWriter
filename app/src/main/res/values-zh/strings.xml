@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EWriter</string>
+    <string name="about">关于</string>
+    <string name="action_settings">设置</string>
+    <string name="all">全部笔记</string>
+    <string name="write_hint">感谢支持_(:з」∠)_</string>
+    <string name="title_setting">设置</string>
+    <string name="settings">设置</string>
+    <string name="share">分享</string>
+    <string name="save">保存</string>
+    <string name="rate_summary">如果您喜欢这款应用，请给我好评！</string>
+    <string name="rate_me">评价</string>
+    <string name="no_market">似乎没有应用市场？</string>
+    <string name="msg_close">关闭</string>
+    <string name="item_weibo_author_url">"http://weibo.com/xiongzba"</string>
+    <string name="item_weibo_author">\@熊胖胖x</string>
+    <string name="item_weibo">新浪微博</string>
+    <string name="first_screen_summary">每次打开新建笔记界面</string>
+    <string name="first_screen">首屏</string>
+    <string name="drawer_open">抽屉打开</string>
+    <string name="drawer_close">抽屉关闭</string>
+    <string name="delete">删除</string>
+    <string name="app_settings">应用设置</string>
+</resources>
